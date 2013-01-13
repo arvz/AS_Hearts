@@ -1,5 +1,6 @@
 package com.as.hearts;
 
-public class Board {
-
+public class Board
+{
+   
 }
